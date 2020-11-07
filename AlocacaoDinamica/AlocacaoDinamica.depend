@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555369062 source:c:\users\aluno\desktop\alocacaodinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555369277 source:d:\c projects\alocacaodinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
